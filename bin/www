@@ -4,6 +4,9 @@
  * Module dependencies.
  */
 
+//  test
+var a = 1;
+
 var app = require('../app');
 var debug = require('debug')('node-express-getting-started:server');
 var http = require('http');
