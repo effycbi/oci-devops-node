@@ -5,7 +5,7 @@
  */
 
 //  test
-var a = 1;
+var a = 0;
 
 var app = require('../app');
 var debug = require('debug')('node-express-getting-started:server');
