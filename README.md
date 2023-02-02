@@ -187,4 +187,4 @@ From the Deployment Pipeline you selected, you can confirm the parameters of tha
 
 Fork this repo from Github and make changes if you want to play around with the sample app, the OCI DevOps build configuration, and the k8s manifest.
 
-#test2
+#test
